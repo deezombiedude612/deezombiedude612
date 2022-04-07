@@ -19,5 +19,5 @@ I may occasionally take time off to help friends and peers with their studies, o
 - [henryheng612.com](https://henryheng612.com), my personal site! (currently under construction) 🧑🏻‍💻
 
 <div style="" align="center">
-	<img src="assets/intro_idle.png" alt="Intro Image" style="width: 400px;">
+	<img src="assets/intro_idle.png" alt="Intro Image" style="width: 600px;">
 </div>
