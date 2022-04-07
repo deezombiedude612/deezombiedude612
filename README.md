@@ -18,6 +18,6 @@ I may occasionally take time off to help friends and peers with their studies, o
 - [Twitter](https://twitter.com/deezombiedude), this is where I normally hang and be a hoot online! 😂🦉
 - [henryheng612.com](https://henryheng612.com), my personal site! (currently under construction) 🧑🏻‍💻
 
-<div style="text-align: center; margin: auto;">
-	<img src="assets/intro_idle.png" alt="Intro Image" style="width: 400px;">
+<div style="text-align: center;">
+	<img src="assets/intro_idle.png" alt="Intro Image" style="width: 400px; margin: auto;">
 </div>
