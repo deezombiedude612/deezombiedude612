@@ -1,7 +1,7 @@
 # What's up.. Henry here! 👋🏻
 
-I currently work as a part-time lecturer concentrating on foundation and diploma level modules at Taylor's College, Malaysia.
-Prior to this, I graduated with a Bachelor's degree in Computer Science from [Taylor's University](https://university.taylors.edu.my) in 2018.
+I currently work as a part-time lecturer concentrating on foundation and diploma level modules at [Taylor's College, Malaysia](https://college.taylors.edu.my).
+Prior to this, I graduated with a Bachelor's degree in Computer Science from [Taylor's University, Malaysia](https://university.taylors.edu.my) in 2018.
 My current interests revolve around technology, teaching and education in general.
 I enjoy indulging myself with Math as an enthusiast, playing video games and watching comedy routines as my pasttime, just to name a few.
 I may occasionally take time off to help friends and peers with their studies, or to pick up a new development skill.
@@ -18,6 +18,6 @@ I may occasionally take time off to help friends and peers with their studies, o
 - [Twitter](https://twitter.com/deezombiedude), this is where I normally hang and be a hoot online! 😂🦉
 - [henryheng612.com](https://henryheng612.com), my personal site! (currently under construction) 🧑🏻‍💻
 
-<div style="display: inline-block; text-align: center;">
-	<img src="assets/intro_idle.png" alt="Intro Image" style="width: 400px; margin: auto;">
+<div style="" align="center">
+	<img src="assets/intro_idle.png" alt="Intro Image" style="width: 400px;">
 </div>
