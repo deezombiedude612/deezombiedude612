@@ -9,7 +9,8 @@ I may occasionally take time off to help friends and peers with their studies, o
 ## Some stuff I've been working on:
 
 - 📝 Notes Repo (something in the works, I plan to revisit my study notes and have them memorialized in a soft-copy format redone in GoodNotes!)
-- 💻 Practical Lab website (hosted with VuePress on GitHub Pages); something to shake up the way how my practical labs for some of my modules are conveyed to my students
+- 💻 Practical Lab website (hosted with Material for MkDocs, formerly VuePress v1 on GitHub Pages); something to shake up the way how my practical labs for some of my modules are conveyed to my students
+  - [ITS30505 Introduction to Computing](https://deezombiedude612.github.io/itc-labs) (optional practical exercises, under construction)
   - [ITS30605 Web Programming](https://deezombiedude612.github.io/wp-labs)
   - [ITS42004 Object-Oriented Programming](https://deezombiedude612.github.io/oop-labs)
 
