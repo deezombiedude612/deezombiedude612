@@ -26,8 +26,6 @@ I may occasionally take time off to help friends and peers with their studies, o
 
 - [henryheng612.com](https://henryheng612.com), my personal site! 🧑🏻‍💻
 - A personal blog on a secondary GitHub account - @deeoscillostrix (TBD) 🦉
-- [YouTube page](https://youtube.com/@deezombiedude) - I occasionally make videos! 📹
-- [Twitch](https://twitch.tv/deezombiedude) - I also occasionally stream! 😝
 
 <div style="" align="center">
 	<img src="assets/intro_idle.png" alt="Intro Image" style="width: 600px;">
