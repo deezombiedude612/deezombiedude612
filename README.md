@@ -11,10 +11,13 @@ I may occasionally take time off to help friends and peers with their studies, o
 - 📝 [Study Notes Repo](https://henryheng612.com/notes)
 
   Something still in the works, I plan to revisit my study notes and have them memorialized in a soft-copy format redone in GoodNotes!
+  I have also included lecture notes that were prepared during my time teaching here as well.
 
 - 💻 Practical Lab website
 
-  Created using Material for MkDocs (formerly VuePress v1 on GitHub Pages). It was just something to shake up the way how my practical labs for some of my modules are conveyed to my students. I plan on creating one definitive site that will contain all that's done below, as well as make more if and when my time and focus permit!
+  Created using Material for MkDocs (formerly VuePress v1 on GitHub Pages).
+  It was just something to shake up the way how my practical labs for some of my modules are conveyed to my students.
+  I plan on creating one definitive site that will contain all that's done below, as well as make more if and when my time and focus permit!
   <!-- - [ITS30505 Introduction to Computing](https://deezombiedude612.github.io/itc-labs) (optional practical exercises, under construction) -->
 
   - [ITS30605 Web Programming](https://deezombiedude612.github.io/wp-labs)
