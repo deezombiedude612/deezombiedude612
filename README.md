@@ -28,7 +28,7 @@ I may occasionally take time off to help friends and peers with their studies, o
 <!-- - [Twitter](https://twitter.com/deezombiedude), this is where I normally hang and be a hoot online! 😂 -->
 
 - [henryheng612.com](https://henryheng612.com), my personal site! 🧑🏻‍💻
-- A personal blog on a secondary GitHub account - @deeoscillostrix (TBD) 🦉
+- A [personal blog](https://deeoscillostrix.github.io/blog) on @deeoscillostrix 🦉
 
 <div style="" align="center">
 	<img src="assets/intro_idle.png" alt="Intro Image" style="width: 600px;">
