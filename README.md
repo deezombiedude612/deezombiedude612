@@ -1,6 +1,6 @@
 # Hi there! 👋🏻
 
-I am currently pursuing MSc in Cybersecurity at [Nanyang Technological University, Singapore](https://ntu.edu.sg).
+I just completed my MSc in Cybersecurity studies at [Nanyang Technological University, Singapore](https://ntu.edu.sg).
 Prior to this, I lectured foundation and diploma level subjects part-time at [Taylor's College, Malaysia](https://college.taylors.edu.my).
 My current interests revolve around software testing, software security, teaching, and curriculum development.
 I enjoy indulging myself with Math as an enthusiast, playing casual video games and watching comedy routines as my pasttime, just to name a few.
@@ -8,7 +8,7 @@ I may occasionally take time off to help friends and peers with their studies, o
 
 ## Some stuff I've been working on:
 
-- 📝 [Study Notes Repo](https://henryheng612.com/notes)
+- 📝 [Study Notes Repo](https://github.com/deezombiedude612/study-notes)
 
   Something still in the works, I plan to revisit my study notes and have them memorialized in a soft-copy format redone in GoodNotes!
   I have also included lecture notes that were prepared during my time teaching here as well.
