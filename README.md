@@ -1,7 +1,7 @@
 # Hi there! 👋🏻
 
 I currently work as a teaching assistant at [National University of Singapore](https://www.comp.nus.edu.sg/).
-Prior to this, I lectured foundation and diploma level subjects part-time at [Taylor's College, Malaysia](https://college.taylors.edu.my) before completing my MSc in Cybersecurity studies at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/computing).
+Prior to this, I lectured foundation and diploma level subjects part-time at [Taylor's College, Malaysia](https://college.taylors.edu.my) before obtaining my MSc in Cybersecurity from [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/computing).
 My current interests revolve around software testing, software security, teaching, and curriculum development.
 I enjoy solving sudoku puzzles, web development as a newfound interest/pastime, and playing casual games like Pokémon and Plants vs. Zombies (of which I'm an avid fan of), Rakuen, and Mr. Saitou, just to name a few.
 I may occasionally take time off to help friends and peers with their studies, or to pick up a new development skill.
