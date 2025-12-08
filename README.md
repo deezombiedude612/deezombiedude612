@@ -3,17 +3,35 @@
 I currently work as a teaching assistant at [National University of Singapore](https://www.comp.nus.edu.sg/).
 Prior to this, I lectured foundation and diploma level subjects part-time at [Taylor's College, Malaysia](https://college.taylors.edu.my) before obtaining my MSc in Cybersecurity from [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/computing).
 My current interests revolve around software testing, software security, teaching, and curriculum development.
-I enjoy solving sudoku puzzles, web development as a newfound interest/pastime, and playing casual games like Pokémon and Plants vs. Zombies (of which I'm an avid fan of), Rakuen, and Mr. Saitou, just to name a few.
+I enjoy solving sudoku puzzles, web development as an occasional interest/pasttime, and playing casual games like Pokémon and Plants vs. Zombies (of which I'm an avid fan of), Rakuen, and Mr. Saitou, just to name a few.
 I may occasionally take time off to help friends and peers with their studies, or to pick up a new development skill.
 
-## Some stuff I've been working on:
+Very recently, I have also picked up reading as a way to cope with my fluctuating mood swings and distract me from being glued on screens for prolonged periods of time (themes preferred include Psychology, Christianity, Education).
+
+## Some stuff I've been working on (at least semi-regularly):
 
 <!-- - 📝 [Study Notes Repo](https://github.com/deezombiedude612/study-notes)
 
   Something still in the works, I plan to revisit my study notes and have them memorialized in a soft-copy format redone in GoodNotes!
   I have also included lecture notes that were prepared during my time teaching here as well. -->
 
-- uh...
+<!-- - uh... -->
+
+- 📖 My own almanac! (link TBA)
+
+  During my time teaching at Taylor's, I created websites to host practical work as well as some guides for my students.
+  Entering NUS as a TA, I initially had plans to resurrect the urge to create one for my students, but man do they already have everything all the students need (and man have I not enough energy to split myself into two these days).. this is very much on the backburner now.
+  To make it more intentional, though, I want to include what I have learnt while working at NUS and then some to make it really feel like a compilation of exercises I created and guides I have (it'll be easier to update as time goes on).
+
+  If I decide to pursue a doctorate in the future, this may be how I'll document some of my learnings too.
+
+- 🦉 A friend's art portfolio website (currently hosted on Vercel, source code **NOT PUBLIC**)
+
+  Developed and now maintaining a (sort-of static) website for a Canadian art student/freelancer, using Next.JS + TypeScript + RadixUI (am working on a revision soon using DaisyUI instead).
+  Her website serves as a portfolio of artwork she has created and to contain art commission info.
+  This was my first pro-bono project upon picking up React and Next.JS, and I am proud of what I was able to achieve!
+
+  Reach out to me for more details.
 
 ## Some stuff I previously worked on:
 
@@ -25,7 +43,7 @@ I may occasionally take time off to help friends and peers with their studies, o
 - 💻 Practical Lab websites
 
   Created using Material for MkDocs (formerly VuePress v1 on GitHub Pages).
-  It was just something to shake up the way how my practical labs for some of my modules are conveyed to my students.
+  It was just something to shake up the way how my practical labs for some of my courses were conveyed to my students.
   I plan on creating one definitive site that will contain all that's done below, as well as make more if and when my time and focus permit!
   Right now, they're pretty much defunct and all plans here are in the backburner.
 
@@ -34,9 +52,9 @@ I may occasionally take time off to help friends and peers with their studies, o
   - [ITS30605 Web Programming](https://deezombiedude612.github.io/wp-labs)
   - [ITS42004 Object-Oriented Programming](https://deezombiedude612.github.io/oop-labs)
 
-## Other place(s) you can find me at:
+<!-- ## Other place(s) you can find me at:
 
-- [My Personal Site](https://henryheng612.com) 🧑🏻‍💻
+- [My Personal Site](https://henryheng612.com) 🧑🏻‍💻 -->
 
 <div style="" align="center">
 	<img src="assets/intro_idle.png" alt="Intro Image" style="width: 600px;">
