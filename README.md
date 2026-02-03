@@ -17,7 +17,7 @@ Very recently, I have also picked up reading as a way to cope with my fluctuatin
 
 <!-- - uh... -->
 
-- 📖 My own almanac! (link TBA)
+- 📖 [My own almanac!](https://deezombiedude612.github.io/almanac)
 
   During my time teaching at Taylor's, I created websites to host practical work as well as some guides for my students.
   Entering NUS as a TA, I initially had plans to resurrect the urge to create one for my students, but man do they already have everything all the students need (and man have I not enough energy to split myself into two these days).. this is very much on the backburner now.
@@ -48,7 +48,6 @@ Very recently, I have also picked up reading as a way to cope with my fluctuatin
   Right now, they're pretty much defunct and all plans here are in the backburner.
 
   **NOTE TO SELF:** Look into Docusaurus, it uses React.
-
   - [ITS30605 Web Programming](https://deezombiedude612.github.io/wp-labs)
   - [ITS42004 Object-Oriented Programming](https://deezombiedude612.github.io/oop-labs)
 
