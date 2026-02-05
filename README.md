@@ -44,12 +44,9 @@ Very recently, I have also picked up reading as a way to cope with my fluctuatin
 
   Created using Material for MkDocs (formerly VuePress v1 on GitHub Pages).
   It was just something to shake up the way how my practical labs for some of my courses were conveyed to my students.
-  I plan on creating one definitive site that will contain all that's done below, as well as make more if and when my time and focus permit!
-  Right now, they're pretty much defunct and all plans here are in the backburner.
+  Right now, they're pretty much defunct.. and I'm in the process of adapting some of the lab activities created into my almanac.
 
-  **NOTE TO SELF:** Look into Docusaurus, it uses React.
-  - [ITS30605 Web Programming](https://deezombiedude612.github.io/wp-labs)
-  - [ITS42004 Object-Oriented Programming](https://deezombiedude612.github.io/oop-labs)
+  <!-- **NOTE TO SELF:** Look into Docusaurus, it uses React. -->
 
 <!-- ## Other place(s) you can find me at:
 
