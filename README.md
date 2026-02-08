@@ -40,11 +40,11 @@ Very recently, I have also picked up reading as a way to cope with my fluctuatin
   Implemented a root cause analysis (RCA) tool to analyze outputs of stack traces coming from software crashes as part of an ongoing capstone project.
   Gave myself a challenge to dabble with NodeJS and TypeScript here for the first time!
 
-- 💻 Practical Lab websites
+<!-- - 💻 Practical Lab websites
 
   Created using Material for MkDocs (formerly VuePress v1 on GitHub Pages).
   It was just something to shake up the way how my practical labs for some of my courses were conveyed to my students.
-  Right now, they're pretty much defunct.. and I'm in the process of adapting some of the lab activities created into my almanac.
+  Right now, they're pretty much defunct.. and I'm in the process of adapting some of the lab activities created into my almanac. -->
 
   <!-- **NOTE TO SELF:** Look into Docusaurus, it uses React. -->
 
